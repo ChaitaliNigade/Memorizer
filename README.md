@@ -1,2 +1,2 @@
 # Memorizer
-Memorizer
+This project is a web application designed to summarize text and generate quizzes based on the provided content. It allows users to input a chapter or text, which is then summarized using the TextRank algorithm. The summary is displayed on the screen and can be converted into an image for visual representation. Additionally, the application can generate a customizable quiz from the text, presenting users with yes/no questions. Users can answer the quiz and submit their responses, after which their score is calculated and displayed. The interface is user-friendly with styled text boxes and buttons for a seamless experience.
